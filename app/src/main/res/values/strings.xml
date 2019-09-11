@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExercicioListView</string>
+    <string-array name="Tipos">
+        <item>Gramas</item>
+        <item>Kilogramas</item>
+        <item>Kilos</item>
+        <item>Unidade</item>
+        <item>Litro</item>
+    </string-array>
+</resources>
